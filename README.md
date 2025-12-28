@@ -69,6 +69,14 @@ This will create a `dist` folder with the optimized production build.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Output Screenshots
+<img width="1584" height="772" alt="image" src="https://github.com/user-attachments/assets/25ab2a85-8a55-4213-b340-f49a26a1a2a9" />
+<img width="1478" height="650" alt="image" src="https://github.com/user-attachments/assets/48b4b823-9c0a-48e3-93ff-7b30a6780dc6" />
+<img width="1358" height="610" alt="image" src="https://github.com/user-attachments/assets/ec3fc680-e40b-4798-a62e-a9a9c2396bbb" />
+<img width="1365" height="644" alt="image" src="https://github.com/user-attachments/assets/70d543fd-a210-4dd9-920c-d1cd0ad0263f" />
+<img width="1301" height="1000" alt="image" src="https://github.com/user-attachments/assets/6fac5315-7f60-4be1-9982-8a8b21ca147e" />
+
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
