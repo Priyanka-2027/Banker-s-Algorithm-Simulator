@@ -1,6 +1,6 @@
 # Banker's Algorithm Simulator
 
-A React-based web application that demonstrates the Banker's Algorithm for deadlock avoidance in operating systems. This interactive tool helps visualize how the algorithm works to prevent deadlocks in resource allocation.
+A React-based web application that demonstrates the Banker's Algorithm for deadlock avoidance in operating systems. This interactive tool helps visualize how the algorithm works to prevent deadlocks in resource allocation
 
 ## Features
 
