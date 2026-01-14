@@ -45,7 +45,7 @@ A React-based web application that demonstrates the Banker's Algorithm for deadl
 1. Enter the number of processes and resources
 2. Input the available resources
 3. Fill in the allocation and need matrices
-4. Click "Run Algorithm" to see the results
+4. Click "Run Algorithm" to see the results.
 5. Follow the step-by-step execution to understand how the algorithm works
 
 ## Building for Production
