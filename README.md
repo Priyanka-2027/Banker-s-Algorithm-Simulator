@@ -7,7 +7,7 @@ A React-based web application that demonstrates the Banker's Algorithm for deadl
 - Interactive interface for inputting processes and resources
 - Real-time visualization of the Banker's Algorithm
 - Step-by-step execution of the algorithm
-- Detection of safe and unsafe states
+- Detection of safe and unsafe states.
 - Responsive design that works on different screen sizes
 
 ## Prerequisites
